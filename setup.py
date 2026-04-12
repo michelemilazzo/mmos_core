@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 with open("requirements.txt") as f:
-    install_requires = f.read().strip().split("\n")
+    install_requires = [r for r in f.read().strip().split("\n") if r]
 
 setup(
     name="mmos_core",
