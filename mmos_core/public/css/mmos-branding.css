@@ -1,0 +1,14 @@
+/* MMOS Branding Overrides */
+:root {
+  --primary-color: #0057B8;
+  --primary-dark: #003d82;
+}
+
+.navbar-brand img.brand-logo {
+  height: 26px !important;
+}
+
+/* Hide "Powered by Frappe" in footer, show MMOS */
+.powered-by-frappe {
+  display: none !important;
+}

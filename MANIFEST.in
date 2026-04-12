@@ -1,0 +1,3 @@
+recursive-include mmos_core/public *
+recursive-include mmos_core/templates *
+recursive-include mmos_core/translations *
