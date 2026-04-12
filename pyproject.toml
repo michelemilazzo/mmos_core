@@ -1,0 +1,17 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "mmos_core"
+version = "1.0.0"
+description = "MMOS Core - Branding and EU localization for Frappe/ERPNext"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    { name = "OneKey SRL", email = "support@onekeyco.com" }
+]
+dependencies = []
+
+[tool.flit.module]
+name = "mmos_core"
