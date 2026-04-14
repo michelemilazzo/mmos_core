@@ -7,7 +7,7 @@ setup(
     name="mmos_core",
     version="1.0.0",
     description="MMOS Core - Branding and EU localization for Frappe/ERPNext",
-    author="OneKey SRL",
+    author="OneKey",
     author_email="support@onekeyco.com",
     packages=find_packages(),
     zip_safe=False,
