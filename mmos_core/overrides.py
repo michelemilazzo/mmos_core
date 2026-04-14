@@ -4,6 +4,6 @@ def update_website_context(context):
     context["support_url"] = "https://support.onekeyco.com"
     context["docs_url"] = "https://docs.onekeyco.com"
     context["community_url"] = "https://community.onekeyco.com"
-    context["company"] = "OneKey SRL"
+    context["company"] = "OneKey"
     context["brand"] = "MMOS"
     return context
