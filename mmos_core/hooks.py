@@ -3,7 +3,7 @@ from __future__ import unicode_literals
 app_name = "mmos_core"
 app_title = "MMOS"
 app_publisher = "OneKey SRL"
-app_description = "MMOS Business Management Platform - Powered by Frappe"
+app_description = "MMOS Business Management Platform - Powered by OneKeyco"
 app_icon = "octicon octicon-file-directory"
 app_color = "#0057B8"
 app_email = "support@onekeyco.com"
