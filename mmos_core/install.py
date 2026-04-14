@@ -18,7 +18,7 @@ def _set_system_defaults():
         "country": "Italy",
         "app_name": "MMOS",
         "footer_powered_by_link": "https://onekeyco.com",
-        "footer_powered_by_label": "MMOS by OneKey SRL",
+        "footer_powered_by_label": "MMOS by OneKey",
     }
     for key, value in settings.items():
         try:
